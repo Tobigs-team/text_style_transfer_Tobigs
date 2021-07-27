@@ -53,7 +53,7 @@
 
 
 ```python
-git clone https://github.com/Annie-Yeeun-Jang/text_style_transfer_Tobigs.git
+git clone https://github.com/Tobigs-team/text_style_transfer_Tobigs.git
 cd text_style_transfer_Tobigs
 ```
 
